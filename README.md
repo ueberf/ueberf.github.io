@@ -1,7 +1,4 @@
-# Headline
+# Interactive Technology Design Wiki
 
-> An awesome project.
-
-# Section 1
-## Section 2
-## Section 3
+This is a prototype for the upcoming ITD Wiki page.
+Build on docsify.js.org
