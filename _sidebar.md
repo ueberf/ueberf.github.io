@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](Home.md)
-* [Learning](/Learning.md)
+* [](Home.md)
+* [](Learning.md)
