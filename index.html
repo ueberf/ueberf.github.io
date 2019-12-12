@@ -12,13 +12,20 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: 'ITD Wiki',
+      repo: 'https://github.com/ueberf/ueberf.github.io',
       loadSidebar: true,
-      subMaxLevel: 2,
-      loadNavbar: true
+      subMaxLevel: 5,
+      loadNavbar: false,
+      themeColor: '#0000FF',
+      pagination: {
+        previousText: 'Previous',
+        nextText: 'Next',
+        crossChapter: true
+      },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>

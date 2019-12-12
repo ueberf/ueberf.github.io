@@ -1,9 +1,11 @@
 <!-- docs/_sidebar.md -->
-* Learning
-  * [](Basics.md)
-  * [](Arduino.md)
-  * [](PickingATool.md "Picking a tool")
-  * [](Hands-onTips "Hands-on tips")
-* IO Infrastructure
-* Resources
-* Projects
+- **Learning**
+  - [Basics](Learning/Basics.md)
+  - [Arduino](Learning/Arduino.md)
+  - [Picking a tool](Learning/PickingATool.md)
+  - [Hands-on tips](Learning/HandsOnTips)
+- **IO Infrastructure**
+  - [Electronics Inventory](Infrastructure/ElectronicsInventory.md)
+  - [Workspaces](Infrastructure/Workspaces.md)
+- **Resources**
+- **Projects**
