@@ -7,5 +7,10 @@
 - **IO Infrastructure**
   - [Electronics Inventory](Infrastructure/ElectronicsInventory.md)
   - [Workspaces](Infrastructure/Workspaces.md)
+  - [People](Infrastructure/People.md)
 - **Resources**
+  - [Additional Tutorials](Resources/AdditionalTutorials.md)
+  - [Quick Reference](Resources/QuickReference.md)
+  - [Purchasing Parts & Material](Resources/Purchasing.md)
+  - [Helpful links](Resources/Help.md)
 - **Projects**
