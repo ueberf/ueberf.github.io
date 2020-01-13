@@ -1,1 +1,1 @@
-# Quick Reference 
+# Quick Reference Guide

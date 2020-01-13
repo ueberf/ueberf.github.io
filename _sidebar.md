@@ -1,16 +1,26 @@
-<!-- docs/_sidebar.md -->
+<!-- docs/_sidebar.md
+
+Template:
+
+- **New Divier Heading**
+  - [Displayed Link](Folder/filename.md)
+
+
+-->
+
+
 - **Learning**
-  - [Basics](Learning/Basics.md)
-  - [Arduino](Learning/Arduino.md)
-  - [Picking a tool](Learning/PickingATool.md)
-  - [Hands-on tips](Learning/HandsOnTips)
+  - [Basics](learning/basics.md)
+  - [Arduino](learning/arduino.md)
+  - [Picking a tool](learning/pickingATool.md)
+  - [Hands-on tips](learning/handsOnTips)
 - **IO Infrastructure**
-  - [Electronics Inventory](Infrastructure/ElectronicsInventory.md)
-  - [Workspaces](Infrastructure/Workspaces.md)
-  - [People](Infrastructure/People.md)
+  - [Workspaces](infrastructure/workspaces.md)
+  - [Electronics Inventory](infrastructure/electronicsInventory.md)
+  - [People](infrastructure/people.md)
 - **Resources**
-  - [Additional Tutorials](Resources/AdditionalTutorials.md)
-  - [Quick Reference](Resources/QuickReference.md)
-  - [Purchasing Parts & Material](Resources/Purchasing.md)
-  - [Helpful links](Resources/Help.md)
+  - [Additional Tutorials](resources/additionalTutorials.md)
+  - [Quick Reference Guide](resources/quickReference.md)
+  - [Purchasing Parts & Material](resources/purchasing.md)
+  - [Helpful links](resources/help.md)
 - **Projects**
